@@ -1,4 +1,4 @@
-module pm-toolkit
+module github.com/dimigoto/pm-toolkit
 
 go 1.16
 
